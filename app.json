@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#f09595",
+    "navigationBarTitleText": "Lemon测试",
+    "navigationBarTextStyle": "black"
+  }
+}
